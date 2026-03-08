@@ -1,5 +1,7 @@
 # VSMC DSO
 
+Digital Service Officer program for Veteran, Service Member, and Civilian advocacy and assistance.
+
 ## What This Is
 
 `VSMC DSO` is a spec-first **Veteran Digital Service Officer** program pack built around deterministic, governed artifact production for veteran-support workflows.
